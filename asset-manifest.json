@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/5DayWeatherForecast/static/css/main.373539de.chunk.css",
+    "main.js": "/5DayWeatherForecast/static/js/main.654435ac.chunk.js",
+    "main.js.map": "/5DayWeatherForecast/static/js/main.654435ac.chunk.js.map",
+    "runtime-main.js": "/5DayWeatherForecast/static/js/runtime-main.583543a7.js",
+    "runtime-main.js.map": "/5DayWeatherForecast/static/js/runtime-main.583543a7.js.map",
+    "static/js/2.21f3a5f2.chunk.js": "/5DayWeatherForecast/static/js/2.21f3a5f2.chunk.js",
+    "static/js/2.21f3a5f2.chunk.js.map": "/5DayWeatherForecast/static/js/2.21f3a5f2.chunk.js.map",
+    "index.html": "/5DayWeatherForecast/index.html",
+    "precache-manifest.16faaa79e6757e99125d70c6755e9895.js": "/5DayWeatherForecast/precache-manifest.16faaa79e6757e99125d70c6755e9895.js",
+    "service-worker.js": "/5DayWeatherForecast/service-worker.js",
+    "static/css/main.373539de.chunk.css.map": "/5DayWeatherForecast/static/css/main.373539de.chunk.css.map",
+    "static/js/2.21f3a5f2.chunk.js.LICENSE": "/5DayWeatherForecast/static/js/2.21f3a5f2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.583543a7.js",
+    "static/js/2.21f3a5f2.chunk.js",
+    "static/css/main.373539de.chunk.css",
+    "static/js/main.654435ac.chunk.js"
+  ]
+}
