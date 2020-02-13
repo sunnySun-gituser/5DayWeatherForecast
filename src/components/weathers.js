@@ -27,8 +27,8 @@ const Weathers = (props) => {
 
     return(
             <div className='container'>
-                <SearchForm value={weatherInput}
-                            handleOnChange={handleOnChange}/>
+                {/* <SearchForm value={weatherInput}
+                            handleOnChange={handleOnChange}/> */}
                     {props.item && (
                         <div>
                             <div className='city-name'>

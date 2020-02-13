@@ -10,8 +10,10 @@ import Forecast from './forecast';
 const MainContent = () => {
     return ( 
         <div>
+            <SearchForm />
+
             <Switch>
-                <Route exact path="/" component={SearchForm} />
+                {/* <Route exact path="/" component={SearchForm} /> */}
                 <Route path='/:zipcode' component={Forecast} />
             </Switch>
         </div>
